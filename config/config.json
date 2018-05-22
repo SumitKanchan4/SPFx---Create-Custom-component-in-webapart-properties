@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "demo-custom-property-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/demoCustomProperty/DemoCustomPropertyWebPart.js",
+          "manifest": "./src/webparts/demoCustomProperty/DemoCustomPropertyWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DemoCustomPropertyWebPartStrings": "lib/webparts/demoCustomProperty/loc/{locale}.js"
+  }
+}

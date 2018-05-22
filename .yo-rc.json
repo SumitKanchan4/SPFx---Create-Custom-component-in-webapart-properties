@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "custom-check-box-group",
+    "libraryId": "243c2587-cf09-41b3-907e-63f3c966c1fe",
+    "environment": "spo"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "custom-check-box-group-client-side-solution",
+    "id": "243c2587-cf09-41b3-907e-63f3c966c1fe",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/custom-check-box-group.sppkg"
+  }
+}
